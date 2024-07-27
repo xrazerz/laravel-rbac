@@ -1,5 +1,5 @@
 {
-    "name": "dev/rabc",
+    "name": "xrazerz/rbac",
     "description": "Create a Comperhensive RABC System For Laravel that allows for more granular control over user premisions",
     "type": "library",
     "license": "MIT",
