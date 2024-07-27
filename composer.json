@@ -5,13 +5,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Dev\\Rabc\\": "src/"
+            "Xrazerz\\Rabc\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Dev\\Rabc\\Providers\\RabcServiceProvider"
+                "Xrazerz\\Rabc\\Providers\\RabcServiceProvider"
             ]
         }
     },
