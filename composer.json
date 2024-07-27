@@ -15,7 +15,7 @@
             ]
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": [
         {
@@ -25,6 +25,6 @@
     ],
     "require": {
         "illuminate/database": "^12.0@dev",
-        "xrazerz/rbac": "dev-main@dev"
+        "xrazerz/rbac": "dev-main"
     }
 }
