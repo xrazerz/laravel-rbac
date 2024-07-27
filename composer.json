@@ -5,17 +5,18 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Xrazerz\\Rbac\\": "src/"
+            "Dev\\Rbac\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Xrazerz\\Rbac\\Providers\\RbacServiceProvider"
+                "Dev\\Rbac\\Providers\\RbacServiceProvider"
             ]
         }
     },
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "repositories": [
         {
             "type": "vcs",
