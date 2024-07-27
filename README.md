@@ -23,7 +23,7 @@ This package provides a comprehensive Role-Based Access Control (RBAC) system fo
 ## Installation
 1. Install the package via Composer:
     ```sh
-    composer require your-username/laravel-rbac
+    composer require xrazerz/laravel-rbac
     ```
 
 2. Publish the configuration file and migrations:
