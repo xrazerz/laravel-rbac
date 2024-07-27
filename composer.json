@@ -1,5 +1,5 @@
 {
-    "name": "xrazerz/rbac",
+    "name": "dev/rbac",
     "description": "Create a Comprehensive RBAC System For Laravel that allows for more granular control over user permissions",
     "type": "library",
     "license": "MIT",
