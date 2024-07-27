@@ -1,0 +1,27 @@
+{
+    "name": "dev/rabc",
+    "description": "Create a Comperhensive RABC System For Laravel that allows for more granular control over user premisions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xrazerz"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dev\\Rabc\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dev\\Rabc\\Providers\\RabcServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/database": "^12.0@dev"
+    }
+}
