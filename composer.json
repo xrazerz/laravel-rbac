@@ -25,6 +25,6 @@
     ],
     "require": {
         "illuminate/database": "^12.0@dev",
-        "xrazerz/rbac": "dev-main"
+        "xrazerz/rbac": "dev-main@dev"
     }
 }
