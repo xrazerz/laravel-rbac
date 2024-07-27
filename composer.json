@@ -16,7 +16,14 @@
         }
     },
     "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/xrazerz/laravel-rbac"
+        }
+    ],
     "require": {
-        "illuminate/database": "^12.0@dev"
+        "illuminate/database": "^12.0@dev",
+        "xrazerz/laravel-rbac": "dev-main"
     }
 }
