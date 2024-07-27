@@ -1,17 +1,17 @@
 {
     "name": "xrazerz/rbac",
-    "description": "Create a Comperhensive RABC System For Laravel that allows for more granular control over user premisions",
+    "description": "Create a Comprehensive RBAC System For Laravel that allows for more granular control over user permissions",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Xrazerz\\Rabc\\": "src/"
+            "Xrazerz\\Rbac\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Xrazerz\\Rabc\\Providers\\RabcServiceProvider"
+                "Xrazerz\\Rbac\\Providers\\RbacServiceProvider"
             ]
         }
     },
